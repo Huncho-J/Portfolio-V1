@@ -1,5 +1,5 @@
 .about{
-    height: 100vh;
+    height:100vh;
     display: flex;
     align-items: center;
 }
@@ -8,7 +8,7 @@
     flex:1; 
     display: grid;
     grid-template-columns: 35% 50%;
-    gap: 15%;
+    gap: 20%;
 }
 
 .about-me{
@@ -62,9 +62,9 @@
 }
 
 .about-card:hover{
-    background: transparent;
-    background-color: var(--color-primary-variant);
+    background: var(--color-bg);
     cursor: default;
+    transition: var(--transition);
 }
 
 .about-icon{

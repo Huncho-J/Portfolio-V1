@@ -1,5 +1,5 @@
 // Import Assets
-import robot from '../assets/robot.png';
+import about from '../assets/about.png';
 import {SiBitcoin} from 'react-icons/si'
 
 import "./about.css"
@@ -12,7 +12,7 @@ const About = () => {
                 <div className='about-me'>
                     
                 <div className='img-card'>
-                    <img src={robot} alt="" className='a-img'></img>       
+                    <img src={about} alt="" className='a-img'></img>       
                 </div> 
                 
             </div>
@@ -41,7 +41,7 @@ const About = () => {
                     Jide is a Creative and efficient blockchain developer with a background in computer science. 
                     His diverse skill set ranges from Smart contract to middleware development for decentralized applications.
                  </p> 
-                 <a href='#contact' className='btn btn-primar'> Lets connect</a>
+                 <a href='#contact' className='btn btn-primary'> Lets connect!</a>
              </div>
             </div>
         </section>

@@ -6,14 +6,15 @@
   box-sizing: border-box;
   list-style: none;
   text-decoration: none;
+  
 }
 :root{
-  --color-bg:#1f1f38;
-  --color-bg-variant: #063974;
-  --color-primary: #90d3f0; 
-  --color-primary-variant:#4e8cd2;
+  --color-bg:#03071e;
+  --color-bg-variant: #5B63B7;
+  --color-primary: #CBCCFF; 
+  --color-primary-variant:#CBCCFF;
   --color-white: #fff;
-  --color-light:rgb(220, 241, 238);
+  --color-light:#CBCCFF;
 
   --container-width-lg:75%;
   --container-width-md:86%;

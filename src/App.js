@@ -1,7 +1,7 @@
 // Import Components
 import Navbar from './components/navbar/Navbar';
 import Header from './components/Header/Header';
-import About from './components/About';
+import About from './components/about/About';
 import Services from './components/services/Services';
 import Experience from './components/experience/Experience';
 import Projects from './components/projectList/Projects';

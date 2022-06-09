@@ -20,7 +20,7 @@ const Experience = () => {
                     <article className='exp-details'>
                         <MdOutlineVerified className='exp-icons'/>
                         <div>
-                        <h4>Web3UIKit</h4>
+                        <h4>Next.js</h4>
                         <small className='text-light'>Intermediate</small>
                         </div>
                     </article>

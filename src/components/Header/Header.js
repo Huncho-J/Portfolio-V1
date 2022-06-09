@@ -1,5 +1,4 @@
-// Import Assets
-import profile from '../../assets/profile.png';
+
 import './header.css';
 
 const Header = () => {

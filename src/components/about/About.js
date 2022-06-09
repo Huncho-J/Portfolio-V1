@@ -1,5 +1,5 @@
 // Import Assets
-import about from '../assets/about.png';
+import about from '../../assets/about.png';
 import {SiBitcoin} from 'react-icons/si'
 
 import "./about.css"

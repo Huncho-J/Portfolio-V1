@@ -6,11 +6,11 @@ const Services = () => {
   return (
     <section id='expertise'>
         <h5>Innovate & Create</h5>
-        <h2>Expertise</h2>
+       
         <div className='container services-container'>
             <article className='service'>
               <div className='service-head'>
-                  <h3>Services</h3>
+                  <h3>Expertise</h3>
               </div>
               <ul className='service-list'>
                   <li>
@@ -27,11 +27,7 @@ const Services = () => {
                   </li>
                   <li>
                       <AiOutlineCheck className='service-icons'></AiOutlineCheck>
-                      <p>Dapp middleware Development i.e. APIs</p>
-                  </li>
-                  <li>
-                      <AiOutlineCheck className='service-icons'></AiOutlineCheck>
-                      <p>Chainlink Integration</p>
+                      <p>API Integration and Development</p>
                   </li>
               </ul>
             </article>

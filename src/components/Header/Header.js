@@ -11,8 +11,8 @@ const Header = () => {
                  <h1 className='h-name'>Jide Abatti</h1>
                  <div className='h-title'>
                      <div className='h-title-wrapper'>
-                         <div className='h-title-item'>Smart Contract Developer</div>
-                         <div className='h-title-item'>NFT Expert</div>
+                         <div className='h-title-item'>Software Engineering</div>
+                         <div className='h-title-item'>Smart Contract Development</div>
                          <div className='h-title-item'>Blockchain App Development</div>
                      </div>
                  </div>

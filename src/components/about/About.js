@@ -38,8 +38,10 @@ const About = () => {
                     </article>
                 </div>
                 <p className='about-desc'>
-                    Jide is a Creative and efficient blockchain developer with a background in computer science. 
-                    His diverse skill set ranges from Smart contract to middleware development for decentralized applications.
+                    Hi, my name is Jide. I'm a creative and efficient software developer 
+                    specializng in building (and occassionally designing) blockchain powered applications. 
+                    I'm currently focused on buildling enterprise level applications using distributed ledger Technologies &
+                    smart contracts.
                  </p> 
                  <a href='#contact' className='btn btn-primary'> Lets connect!</a>
              </div>

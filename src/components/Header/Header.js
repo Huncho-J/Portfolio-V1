@@ -11,9 +11,7 @@ const Header = () => {
                  <h1 className='h-name'>Jide Abatti</h1>
                  <div className='h-title'>
                      <div className='h-title-wrapper'>
-                         <div className='h-title-item'>Software Engineering</div>
-                         <div className='h-title-item'>Smart Contract Development</div>
-                         <div className='h-title-item'>Blockchain App Development</div>
+                         <div className='h-title-item'>Software Development</div>
                      </div>
                  </div>
                  <a href='#contact' className='btn btn-primary'> Lets connect !</a>

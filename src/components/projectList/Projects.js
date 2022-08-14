@@ -1,7 +1,6 @@
 // Import Assets
 
 import './projectList.css'
-import Project from '../project/Project'
 import {projects} from '../../data'
 
 

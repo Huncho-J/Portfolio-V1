@@ -21,7 +21,7 @@ const About = () => {
                     <article className='about-card'>
                         <SiBitcoin className='about-icon' />
                         <h5>Experience</h5>
-                        <small>3+ Years Work Experience</small>
+                        <small>4+ Years Work Experience</small>
                     </article>
                     <article className='about-card'>
                         <SiBitcoin className='about-icon' />

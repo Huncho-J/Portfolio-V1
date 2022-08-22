@@ -1,6 +1,6 @@
 {
   "name": "portfolio-v1",
-  "homepage": "https://jideportfolio.space/",
+  "homepage": "https://jideportfolio.space",
   "version": "0.1.0",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
